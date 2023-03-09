@@ -11,3 +11,6 @@ Topics covered in this project:
 6. Storybook and propTypes
 7. React-window for Pagination
 8. Bonus: debounce and sort 
+
+Author:
+@HadiAbu
